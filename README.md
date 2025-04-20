@@ -70,4 +70,6 @@ The full notebook is available in `Framingham_Logistic_Regression.ipynb`.
 
 ## 🤝 Connect with Me
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com) to discuss data science, machine learning, and more!
+Feel free to connect on [LinkedIn](www.linkedin.com/in/sushant-kakde-21b956325
+)
+ to discuss data science, machine learning, and more!
